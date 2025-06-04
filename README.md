@@ -1,9 +1,9 @@
-#👋 HelloWho! — Real-Time Chat App (Author- Sudhanshu Kumar)
+## 👋 HelloWho! — Real-Time Chat App (Author- Sudhanshu Kumar)
 <br>
 HelloWho! is a modern, full-stack real-time chat application built using the MERN stack with Socket.IO and WebRTC to support both random ,one-on-one chats  and Video Chat . With responsive UI components and interactive features, HelloWho! is designed to be both functional and fun.
 
 
-🚀 Features
+## 🚀 Features
 🔒 Login Modal (optional, future enhancement for user auth)
 
 💬 Text Chat — Real-time messaging with typing indicators
@@ -25,6 +25,8 @@ HelloWho! is a modern, full-stack real-time chat application built using the MER
 ![AI Chat](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/AI%20CHAT.png)
 ![Feedback Bar](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/feeback%20bar.png)
 
+
+## Folder Structure
 
 HelloWho/
 ├── dist/                     
@@ -56,7 +58,7 @@ HelloWho/
 └── tsconfig.json             
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Frontend: React.js + TypeScript + Tailwind CSS + Vite
 
 Backend: Node.js + Express.js + Socket.IO
@@ -68,8 +70,7 @@ Styling: Tailwind CSS
 State Management: React Hooks + Context API (optional)
 
 
-<br>
-##🌐 How to Run
+## 🌐 How to Run
 
 1. Clone the Repository
 bash
@@ -95,5 +96,10 @@ The backend is built with Express.js and uses Socket.IO to manage:
 
 > Located in: `server.cjs`
 
+## Guide 
+First start the server by running the command --> node server.cjs (Starts the server) -> then in another terminal run the command --> npm run dev ( then click the control button and the local host link )
 
+After completing all the thing you can access all the features availble on it .---- --> For Text and Video chat just click the buttons from the feature section or the quick access button . Just copy the link and paste to the another tab and start chat .
+
+--> For Random Chat Open the Random Chat feature in Multiple Tabs and click on Find Stranger Button you Will you automatically connected to the random one .
 
