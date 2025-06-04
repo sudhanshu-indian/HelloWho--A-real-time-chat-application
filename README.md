@@ -16,12 +16,12 @@ HelloWho! is a modern, full-stack real-time chat application built using the MER
 
 
 ### 📷 Screenshots
-![image alt]([./screenshots/video-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/Chat%20Options.png))
-![image alt]([./screenshots/video-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/Random.jpg))
-![image alt]([./screenshots/text-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/TExt.png))
-![image alt]([./screenshots/text-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/Video%20Vhat.png))
-![image alt]([./screenshots/video-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/AI%20CHAT.png))
-![image alt]([./screenshots/video-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/feeback%20bar.png))
+![Main Page](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/Chat%20Options.png)
+![Random Chat](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/Random.jpg)
+![Text Chat](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/TExt.png)
+![Video Chat](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/Video%20Vhat.png)
+![AI Chat](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/AI%20CHAT.png)
+![Feedback Bar](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/feeback%20bar.png)
 
 
 HelloWho/
