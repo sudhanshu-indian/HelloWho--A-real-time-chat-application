@@ -1,0 +1,14 @@
+{ 
+  "compilerOptions": {
+    "jsx": "react",
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "types": ["node"]
+  },
+  "include": ["vite.config.ts", "src/**/*", "types/**/*", "src/Features", "src/MainApp.tsx"]
+}
