@@ -16,18 +16,19 @@ HelloWho! is a modern, full-stack real-time chat application built using the MER
 
 
 ### 📷 Screenshots
-![Text Chat](./screenshots/text-chat.png)
-![Video Chat](./screenshots/video-chat.png)
+![Features]([./screenshots/video-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/Chat%20Options.png))
+![Random chat]([./screenshots/video-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/Random.jpg))
+![Text Chat]([./screenshots/text-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/TExt.png))
+![Video Chat]([./screenshots/text-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/Video%20Vhat.png))
+![AI Chat]([./screenshots/video-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/AI%20CHAT.png))
+![Feedback Form]([./screenshots/video-chat.png](https://github.com/sudhanshu-indian/HelloWho--A-real-time-chat-application/blob/ea56971a3b39289071ade0d0bf32c03472688b09/feeback%20bar.png))
 
-
-
-⚡ Powered by Socket.IO for low-latency interactions
 
 HelloWho/
-├── dist/                      # Build output
-├── node_modules/             # Dependencies
+├── dist/                     
+├── node_modules/             
 ├── src/
-│   ├── components/           # UI components
+│   ├── components/          
 │   │   ├── Navbar.tsx
 │   │   ├── Footer.tsx
 │   │   ├── HeroSection.tsx
@@ -36,21 +37,21 @@ HelloWho/
 │   │   ├── Testimonials.tsx
 │   │   ├── LoginModal.tsx
 │   │   └── ...more
-│   ├── Features/             # Chat features
+│   ├── Features/           
 │   │   ├── TextChat.tsx
 │   │   ├── VideoChat.tsx
 │   │   ├── RandomChat.tsx
 │   │   ├── ChatSelector.tsx
 │   │   └── FeaturesApp.tsx
-│   ├── App.tsx               # Main entry point for React
-│   ├── index.tsx             # React DOM renderer
-│   └── index.css             # Global styles
+│   ├── App.tsx               
+│   ├── index.tsx             
+│   └── index.css             
 ├── public/
 │   └── index.html
-├── package.json              # Project metadata and dependencies
-├── vite.config.ts            # Vite configuration
-├── tailwind.config.js        # Tailwind CSS setup
-└── tsconfig.json             # TypeScript configuration
+├── package.json              
+├── vite.config.ts            
+├── tailwind.config.js        
+└── tsconfig.json             
 
 
 🛠️ Technologies Used
