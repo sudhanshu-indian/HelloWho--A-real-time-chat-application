@@ -1,4 +1,4 @@
-## 👋 HelloWho! — Real-Time Chat App (Author- Sudhanshu Kumar)
+## 👋 HelloWho! — Real-Time Chat Application (Author- Sudhanshu Kumar)
 <br>
 HelloWho! is a modern, full-stack real-time chat application built using the MERN stack with Socket.IO and WebRTC to support both random ,one-on-one chats  and Video Chat . With responsive UI components and interactive features, HelloWho! is designed to be both functional and fun.
 
